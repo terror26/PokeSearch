@@ -8,4 +8,4 @@ For a fan of Pokemon its a must have app as it lets you see the location of the 
 MapKit is implemented to its max plus you can get the direction of the Pokemon by just clicking on the Pokemon you wanna search
 and then clicking it again to get its route.
 
-Your location is shown using a cool Ash Ketchup annotaion image!
+Your location is shown using a cool Ash Ketchup annotation image!
